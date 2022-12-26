@@ -6,6 +6,6 @@
 - 😄 Pronomes: Ele/Dele
 ### Hi! I´m Robert Daian! 👋
 - 🔭 Currently i'm attending to computer engeneering course.
-- 🌱 I'm studying the Python programming language for Data Science. 
+- 🌱 I'm studying Python for Data Science. 
 - 📫 E-mail contact: robertcontact2002@gmail.com
 - 😄 Pronouns: Ele/Dele
