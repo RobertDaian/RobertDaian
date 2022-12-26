@@ -8,4 +8,4 @@
 - 🔭 Currently i'm attending to computer engeneering course.
 - 🌱 I'm studying Python for Data Science. 
 - 📫 E-mail contact: robertcontact2002@gmail.com
-- 😄 Pronouns: Ele/Dele
+- 😄 Pronouns: He/Him/His
